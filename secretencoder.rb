@@ -9,8 +9,6 @@ pp secret
 #######################################################
 # write your program below
 
-code = {'a'=>1,'e'=>2,'i'=>3,'o'=>4,'u'=>5}
-
 secret = secret.gsub('a','1')
 secret = secret.gsub('e','2')
 secret = secret.gsub('i','3')
